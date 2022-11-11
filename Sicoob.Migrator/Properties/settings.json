@@ -1,0 +1,11 @@
+{
+  "EndPoint": "https://crediminas.sharepoint.com/sites/intranet",
+  "Libary": "Documentosintra",
+  "Base": "NomeArquivosNormativos_Teste.xlsx",
+  "SleepTime": 1000,
+  "MaxBlanks": 100,
+  "Threads":  1,
+  "OutPut": {
+    "Title": "Normativos"
+  }
+}
